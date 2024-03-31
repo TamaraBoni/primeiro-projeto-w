@@ -56,3 +56,7 @@ h2 {
 #menu ul {
   text-align: center;
 }
+
+nav {
+  font-weight: bold;
+}
