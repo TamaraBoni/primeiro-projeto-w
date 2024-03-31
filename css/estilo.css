@@ -6,7 +6,7 @@ html {
   margin: 20px;
 }
 
-#cabecalho {
+header {
   font-size: 62.5%; /* 1rem = 10px */
   background-color: #0000ff;
 }
@@ -57,12 +57,13 @@ nav a {
 form {
   border: solid 1px gray;
   padding: 10px;
+}  
   
-  button {
+button {
     background-color: blue
     color: white
 }
-}
+
 
 p {
   color: rgb(8, 121, 8);
