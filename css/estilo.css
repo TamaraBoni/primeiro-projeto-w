@@ -63,9 +63,18 @@ nav {
 
 form {
   border: solid 1px gray;
-  padding: 0px;
+  padding: 10px;
+}
+
+.button {
+    background-color: blue
+    color: white
 }
 
 p {
   color: rgb(8, 121, 8);
 }
+
+.rodape{
+    border-top: solid 2px red;
+ }
